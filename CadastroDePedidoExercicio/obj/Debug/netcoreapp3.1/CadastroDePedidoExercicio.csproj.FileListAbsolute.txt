@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\bin\Debug\netcoreapp3.1\CadastroDePedidoExercicio.exe
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\bin\Debug\netcoreapp3.1\CadastroDePedidoExercicio.deps.json
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\bin\Debug\netcoreapp3.1\CadastroDePedidoExercicio.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\bin\Debug\netcoreapp3.1\CadastroDePedidoExercicio.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\bin\Debug\netcoreapp3.1\CadastroDePedidoExercicio.dll
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\bin\Debug\netcoreapp3.1\CadastroDePedidoExercicio.pdb
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.dll
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.pdb
+C:\Users\cecilia.dutra\source\repos\CadastroDePedidoExercicio\CadastroDePedidoExercicio\obj\Debug\netcoreapp3.1\CadastroDePedidoExercicio.genruntimeconfig.cache
